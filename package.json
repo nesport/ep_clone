@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.2",
+    "html2canvas": "^1.4.1",
+    "nodemailer": "^6.9.1",
+    "nuxt": "^3.4.1",
+    "nuxt-quasar-ui": "^1.6.1"
+  },
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
+}
